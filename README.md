@@ -1,8 +1,15 @@
 # youtube_history_watch_time
+**INCOMPLETE PROJECT**
+
 See how much time you've wasted on Youtube
 
+# QUICK UPDATE: (Dec 6th, 2019)
+It appears that authentification for data retrieval that's specific to a user account requires OAuth, and not just an API key.
 
-Goals:
+For the purposes of getting familiar with the Youtube API, I will play around with projects that play around with public data (in which an API key would be sufficient), and then come back to this project later.
+
+
+# Goals
 - Figure out how to ping the Youtube API with an API key
 	- Need OAuth instead?
 - Get a list of Youtube video links from my watch history
@@ -13,7 +20,7 @@ Goals:
 
 
 
-
+# Sidenotes
 
 If on a Mac, for the first time you need to:
 
